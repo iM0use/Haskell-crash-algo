@@ -1,2 +1,2 @@
-# Haskell-
+# Haskell_carsh_to_advanced_algo
 Haskell初学者，哦，不，应该说是二年级数学不及格者重修二年级数学
